@@ -8,5 +8,6 @@
         "sem.h": "c",
         "zgt_tm.C": "cpp",
         "zgt_tx.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
